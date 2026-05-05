@@ -1,0 +1,5 @@
+formulário simples que puxe dados já cadastrados (pode ser qualquer coisa)
+relação com duas tabelas (duas models)
+precisa ter front-end caprichada (view)
+precisa fazer o cadastro no banco de dados (controller) + regras de negócios
+nível de validação maior (controller) ex: verificação de todos os dados
